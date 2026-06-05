@@ -21,7 +21,9 @@ packages/
 .nuget/
 
 # Logs
-*.logs
+*.log
+**/logs/
+
 
 # OS generated files
 .DS_Store
